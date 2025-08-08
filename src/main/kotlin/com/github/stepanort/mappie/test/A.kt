@@ -1,0 +1,1 @@
+data class A(val a: String)
